@@ -14,6 +14,7 @@ O projeto tem como ideia um sistema de gest√£o financeira pessoal, em que o usu√
 ### Back-End 
 ![technology Javascript](https://img.shields.io/badge/framework-Node.js-green.svg?style=flat-square)
 ![technology Javascript](https://img.shields.io/badge/technology-TypeScript-blue.svg?style=flat-square)
+![technology Javascript](https://img.shields.io/badge/test-Jest-red.svg?style=flat-square)
 
 ### Banco de Dados
 ![technology Database](https://img.shields.io/badge/database-PostgreSql-red.svg?style=flat-square)
