@@ -1,5 +1,7 @@
 # Projeto Wallet
 
+O projeto tem como ideia um sistema de gestão financeira pessoal, em que o usuário possa registrar suas transações (receitas e despesas) para que tenha uma visão geral da seu financeiro.
+
 ## Front-End
 
 ![technology Java](https://img.shields.io/badge/biblioteca-ReactJs-blue.svg?style=flat-square)
@@ -12,7 +14,7 @@
 
 ## Banco de Dados
 
-![technology Java](https://img.shields.io/badge/database-MySql-red.svg?style=flat-square)
+![technology Java](https://img.shields.io/badge/database-PostgreSql-red.svg?style=flat-square)
 
 ## Requisitos Funcionais
 
