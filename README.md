@@ -14,7 +14,6 @@ O projeto tem como ideia um sistema de gestão financeira pessoal, em que o usu�
 ### Back-End 
 ![technology Javascript](https://img.shields.io/badge/framework-Node.js-green.svg?style=flat-square)
 ![technology Javascript](https://img.shields.io/badge/technology-TypeScript-blue.svg?style=flat-square)
-![technology Javascript](https://img.shields.io/badge/test-Jest-red.svg?style=flat-square)
 
 ### Banco de Dados
 ![technology Database](https://img.shields.io/badge/database-PostgreSql-red.svg?style=flat-square)
@@ -22,19 +21,14 @@ O projeto tem como ideia um sistema de gestão financeira pessoal, em que o usu�
 
 ## Requisitos Funcionais
 
-RF01 - O usuário poderá cadastrar-se utilizando-se de nome, e-mail e senha.
-
-RF02 - O usuário poderá acessar o sistema utilizando-se de seu login (e-mail) e senha.
-
-RF03 - O usuário deve permitir que o usuário cadastre, edite e delete suas transações (receitas e despesas) cotidianas.
-
-RF04 - O software deve permitir que o usuário filtre as transações por mês, por receitas e por despesas.
-
-RF05 - O software deve permitir que o usuário cadastre, edite e delete transações (receitas/despesas) recorrentes, isso é, uma transação "fixa" que se repete todo o mês, na data registrada.
-
-RF06 - O software deve exibir ao usuário uma listagem de suas transações.
-
-RF07 - O software deve exibir ao usuário um saldo mensal, isso é, balanço entre receitas e despesas ocorridas em determinado mês.
-
-RF08 - O software deve exibir ao usuário um saldo geral, considerando o saldo de todos os meses.
+RF01 - Cadastro de usuários
+RF02 - Login do usuário
+RF03 - Cadastramento de despesas fixas
+RF04 - Listagem de transações (despesas e receitas)
+RF05 - Cadastramento de receitas/despesas
+RF06 - Deleção de despesas fixas
+RF07 - Deleção de receitas/despesas
+RF08 - Busca por transaçòes por mês, por receitas e por despesas
+RF09 - Exibição do saldo mensal
+RF10 - Exibição do saldo geral
 
