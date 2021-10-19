@@ -21,14 +21,14 @@ O projeto tem como ideia um sistema de gestão financeira pessoal, em que o usu�
 
 ## Requisitos Funcionais
 
-RF01 - Cadastro de usuários
-RF02 - Login do usuário
-RF03 - Cadastramento de despesas fixas
-RF04 - Listagem de transações (despesas e receitas)
-RF05 - Cadastramento de receitas/despesas
-RF06 - Deleção de despesas fixas
-RF07 - Deleção de receitas/despesas
-RF08 - Busca por transaçòes por mês, por receitas e por despesas
-RF09 - Exibição do saldo mensal
-RF10 - Exibição do saldo geral
+- RF01 - Cadastro de usuários
+- RF02 - Login do usuário
+- RF03 - Cadastramento de despesas fixas
+- RF04 - Listagem de transações (despesas e receitas)
+- RF05 - Cadastramento de receitas/despesas
+- RF06 - Deleção de despesas fixas
+- RF07 - Deleção de receitas/despesas
+- RF08 - Busca por transaçòes por mês, por receitas e por despesas
+- RF09 - Exibição do saldo mensal
+- RF10 - Exibição do saldo geral
 
